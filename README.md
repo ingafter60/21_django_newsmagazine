@@ -59,11 +59,12 @@ https://www.udemy.com/course/python-django-tkinter-complete-bundle-advance/learn
         new file:   main/views.py
         modified:   myproject/settings.py
         modified:   myproject/urls.py
-        
-### 103. App Settings
 
-### 104. App Layer
+### 103-105. Create templates, views and urls to display Hello World!
 
-### 105. Test App
+        modified:   README.md
+        new file:   main/templates/home.html
+        modified:   main/urls.py
+        modified:   main/views.py
 
 ### 106. Register App
