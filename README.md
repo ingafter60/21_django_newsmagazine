@@ -67,4 +67,10 @@ https://www.udemy.com/course/python-django-tkinter-complete-bundle-advance/learn
         modified:   main/urls.py
         modified:   main/views.py
 
-### 106. Register App
+### 106. Register Main app login to test 
+
+        modified:   README.md
+        modified:   db.sqlite3
+        modified:   main/admin.py
+        new file:   main/migrations/0001_initial.py
+        modified:   main/models.py
