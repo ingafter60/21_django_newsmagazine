@@ -28,6 +28,10 @@
               
 ### 99. Django Settings
 
+        modified:   README.md
+        new file:   db.sqlite3
+        modified:   myproject/settings.py
+
 ### 100. Django Urls
 
 ### 101. Default Django Admin
