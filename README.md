@@ -34,4 +34,7 @@
 
 ### 100. Django Urls
 
+        modified:   README.md
+        modified:   myproject/urls.py
+
 ### 101. Default Django Admin
