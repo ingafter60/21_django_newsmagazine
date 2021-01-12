@@ -8,9 +8,14 @@
 
         new file:   .gitignore
         new file:   README.md
-        
-### 97. Instal and Run Venv and Django
 
+### 97. Install and Run Venv and Django
+
+        > python3 -m venv venv38225
+        > source venv3825/bin/activate
+        > pip install django==2.2.5
+        modified:   README.md
+        
 ### 98. First Website
 
 ### 99. Django Settings
