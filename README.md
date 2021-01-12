@@ -1,5 +1,6 @@
 # BUILDING A NEWS MAGAZINE APP USING DJANGO V2.2.5
-
+https://github.com/ingafter60/21_django_newsmagazine
+https://www.udemy.com/course/python-django-tkinter-complete-bundle-advance/learn/lecture/16516276#overview
 
 ## SECTION 21: Django 02 Run first web site
 
@@ -41,3 +42,28 @@
 
         modified:   README.md
         modified:   db.sqlite3
+
+
+
+## SECTION 22: Django 03 Start app
+
+
+### 102. Start App - Create an app 'main', register it and urls 
+
+        modified:   README.md
+        new file:   main/admin.py
+        new file:   main/apps.py
+        new file:   main/models.py
+        new file:   main/tests.py
+        new file:   main/urls.py
+        new file:   main/views.py
+        modified:   myproject/settings.py
+        modified:   myproject/urls.py
+        
+### 103. App Settings
+
+### 104. App Layer
+
+### 105. Test App
+
+### 106. Register App
