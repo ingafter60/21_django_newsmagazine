@@ -38,3 +38,6 @@
         modified:   myproject/urls.py
 
 ### 101. Default Django Admin
+
+        modified:   README.md
+        modified:   db.sqlite3
